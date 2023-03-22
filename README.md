@@ -19,5 +19,9 @@ OpenRISC es un ISA de código abierto basado en DLX con un diseño RISC asociado
 
 ## Conceptos
 RISC: computadora con conjunto de instrucciones reducido
+
 CPU: unidad central de procesamiento
-Software: cualquier componente intangible (y no físico) que forma parte de un dispositivo, como una computadora, un teléfono o una tableta, y que le permite funcionar. Bit: La unidad de información más pequeña. Se utiliza para representar una comparación entre dos valores (desde y hasta, falso y verdadero, abierto y cerrado).
+
+Software: cualquier componente intangible (y no físico) que forma parte de un dispositivo, como una computadora, un teléfono o una tableta, y que le permite funcionar.
+
+Bit: La unidad de información más pequeña. Se utiliza para representar una comparación entre dos valores (desde y hasta, falso y verdadero, abierto y cerrado).
