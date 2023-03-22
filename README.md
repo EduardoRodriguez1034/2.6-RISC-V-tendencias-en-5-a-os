@@ -6,7 +6,7 @@ Marco teorico de referencia de RISC-V como competencia en el mercado embebed
 
 
 
-#¿Que es RISC-V?
+## ¿Que es RISC-V?
 RISC-V es una arquitectura de conjunto de instrucciones de hardware (ISA) libre basada en un diseño similar a RISC. RISC-V es gratuito y abierto y se puede usar sin compensación para cualquier propósito, lo que permite que cualquier persona diseñe, fabrique y venda chips y software RISC-V.
 
 Aunque no es el primer ISA de arquitectura abierta, es importante porque está diseñado para usarse en una variedad de dispositivos. El conjunto de instrucciones también tiene un extenso software complementario que aborda los errores comunes de los conjuntos de instrucciones más nuevos. fondo
