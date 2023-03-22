@@ -13,6 +13,8 @@ RISC-V es una arquitectura de conjunto de instrucciones de hardware (ISA) libre 
 
 RISC-V se creó en UC Berkeley en 2010 con un propósito educativo principal, pero también planea convertirse a mediano plazo en una alternativa de hardware libre a los diseños x86-64 de Intel y AMD, como las CPU basadas en ARM que han proliferado en los últimos años.
 
+## Antecedentes
+
 El término RISC se remonta a alrededor de 1980. Antes de esto, se sabía que las computadoras más simples podrían ser efectivas, pero los principios de diseño no se describieron ampliamente. Las computadoras simples pero eficientes han sido durante mucho tiempo de interés académico. Academia creó el conjunto de instrucciones RISC DLX para la primera versión de Computer Architecture en 1990: un enfoque cuantitativo. David Patterson es el autor y más tarde trabajó en RISC-V. DLX está destinado únicamente para uso educativo. Académicos y aficionados han implementado esto a través de matrices de puertas programables de campo. No es un éxito comercial.
 Las CPU ARM 2 y anteriores tienen un conjunto de instrucciones de dominio público y siguen siendo compatibles con el popular compilador de software libre GNU Compiler Collection (GCC). Hay tres núcleos de código abierto para esta ISA, pero aún no están en producción.
 OpenRISC es un ISA de código abierto basado en DLX con un diseño RISC asociado. Es totalmente compatible con GCC y Linux. Sin embargo, su implementación comercial es rara. 
